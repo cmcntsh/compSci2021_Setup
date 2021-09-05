@@ -44,3 +44,7 @@ This week we're going to set up the tools we need to jump in and get started wit
   * Git repositories and commands (9 min): https://www.youtube.com/watch?v=yLLZdOIuCfg
   * How Git saves commits (10 min): https://www.youtube.com/watch?v=3zmolo8YRO8
   * Branches and merging (10 min): https://www.youtube.com/watch?v=2YDoQZ9nZ4g
+  * Pushing to a remote (5 min): https://www.youtube.com/watch?v=R2bLo-KiYlU
+  * Fetching and pulling from a remote (6 min): https://www.youtube.com/watch?v=gNaCC_8B1k0
+  * GitHub workflow (6 min): https://www.youtube.com/watch?v=SoaAoATcUxU
+  * Merge conflicts (4 min): https://www.youtube.com/watch?v=c1210JclnPw
