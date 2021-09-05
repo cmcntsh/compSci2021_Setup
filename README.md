@@ -39,3 +39,8 @@ This week we're going to set up the tools we need to jump in and get started wit
 * Using Git with VSCode: https://code.visualstudio.com/docs/editor/versioncontrol
 * Git & GitHub crash course for beginners (33 min): https://www.youtube.com/watch?v=SWYqp7iY_Tc
 * Using Git with VSCode and GitHub (10 min): https://www.youtube.com/watch?v=9cMWR-EGFuY
+* Git and GitHub Information
+  * Introduction to version control (4 min): https://www.youtube.com/watch?v=uWsXEmaM3PA
+  * Git repositories and commands (9 min): https://www.youtube.com/watch?v=yLLZdOIuCfg
+  * How Git saves commits (10 min): https://www.youtube.com/watch?v=3zmolo8YRO8
+  * Branches and merging (10 min): https://www.youtube.com/watch?v=2YDoQZ9nZ4g
