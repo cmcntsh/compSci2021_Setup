@@ -48,3 +48,4 @@ This week we're going to set up the tools we need to jump in and get started wit
   * Fetching and pulling from a remote (6 min): https://www.youtube.com/watch?v=gNaCC_8B1k0
   * GitHub workflow (6 min): https://www.youtube.com/watch?v=SoaAoATcUxU
   * Merge conflicts (4 min): https://www.youtube.com/watch?v=c1210JclnPw
+  * Git submodules https://www.sitepoint.com/git-submodules-introduction/
